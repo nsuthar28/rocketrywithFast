@@ -2,7 +2,7 @@
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 import yfinance as yf
-from talib import stream, set_compatibility
+# from talib import stream, set_compatibility
 import json 
 import random
 import urllib
